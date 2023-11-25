@@ -196,7 +196,6 @@ print(f"A frase alvo foi alcançada após a {geracao}° geração, "
       f"partindo da frase inicial: {primeira_string}.")
 print(doninha_ascii)
 
-
 # Loop pygame para tela só fechar com comando
 while True:
     for evento in pygame.event.get():
